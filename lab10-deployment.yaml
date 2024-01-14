@@ -19,5 +19,5 @@ spec:
     spec:
       containers:
         - name: lab10-app
-          image: sweaze/lab10-app:1.0.3
+          image: sweaze/lab10-app:1.0.4
  
